@@ -182,8 +182,8 @@ As evident from the above table, the *JumpValidity* = 1 for the unconditional ju
 
 In all other cases, *JumpValidity* = 0
 
-![](Aspose.Words.28aef60f-83e2-400f-9b43-51bfe16801b5.002.jpeg)
+![](imgs/Aspose.Words.28aef60f-83e2-400f-9b43-51bfe16801b5.002.jpeg)
 Fig 1: Datapath Diagram
 
-![](Aspose.Words.28aef60f-83e2-400f-9b43-51bfe16801b5.003.jpeg)
+![](imgs/Aspose.Words.28aef60f-83e2-400f-9b43-51bfe16801b5.003.jpeg)
 Fig 2: ALU Diagram
