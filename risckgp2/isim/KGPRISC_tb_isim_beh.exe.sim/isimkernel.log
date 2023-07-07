@@ -1,0 +1,10 @@
+Command line:
+   KGPRISC_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  48843
+
+Wed Nov  9 16:39:56 2022
+
+
+ Elaboration Time: 0.02 sec

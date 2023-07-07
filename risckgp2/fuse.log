@@ -1,0 +1,74 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/shiladitya/Documents/risckgp2/KGPRISC_tb_isim_beh.exe -prj /home/shiladitya/Documents/risckgp2/KGPRISC_tb_beh.prj work.KGPRISC_tb work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/LCU.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/CLA4Bit_Augmented.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/CLA16BitRipple_Augmented.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/CLA32bit.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/shifter.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/diff.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/bit_32_mux.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/sign_extender.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/reg_file.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/programcounter.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/pc_incr.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/mux5b3case.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/mux32b3case.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/jumpcontrol.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/ipcore_dir/bram_instr_mem.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/ipcore_dir/bram_data_mem.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/instr_decoder.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/dff.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/branch_ctrl.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/ALU.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/datapath.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/control_path.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/KGPRISC.v" into library work
+Analyzing Verilog file "/home/shiladitya/Documents/risckgp2/KGPRISC_tb.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 85348 KB
+Fuse CPU Usage: 1080 ms
+Compiling module control_path
+Compiling module dff
+Compiling module programcounter
+Compiling module BLK_MEM_GEN_V7_3_output_stage(C_...
+Compiling module BLK_MEM_GEN_V7_3_softecc_output_...
+Compiling module BLK_MEM_GEN_V7_3_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V7_3(C_FAMILY="artix...
+Compiling module bram_instr_mem
+Compiling module instr_decoder
+Compiling module mux5b3case
+Compiling module reg_file
+Compiling module sign_extender
+Compiling module bit_32_mux
+Compiling module CLA4Bit_Augmented
+Compiling module LCU
+Compiling module CLA16BitRipple_Augmented
+Compiling module CLA32bit
+Compiling module diff
+Compiling module shifter
+Compiling module ALU
+Compiling module jumpcontrol
+Compiling module pc_incr
+Compiling module branch_ctrl
+Compiling module BLK_MEM_GEN_V7_3_output_stage(C_...
+Compiling module BLK_MEM_GEN_V7_3_softecc_output_...
+Compiling module BLK_MEM_GEN_V7_3_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V7_3(C_FAMILY="artix...
+Compiling module bram_data_mem
+Compiling module mux32b3case
+Compiling module datapath
+Compiling module KGPRISC
+Compiling module KGPRISC_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 9 sub-compilation(s) to finish...
+Compiled 33 Verilog Units
+Built simulation executable /home/shiladitya/Documents/risckgp2/KGPRISC_tb_isim_beh.exe
+Fuse Memory Usage: 1173088 KB
+Fuse CPU Usage: 1210 ms
+GCC CPU Usage: 3550 ms
