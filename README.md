@@ -11,13 +11,14 @@
     <b>Kgp-miniRISC</b>
     <br />
     <br />
-    <img src="https://img.shields.io/badge/Verilog-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Verilog-ae3ee0?&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <br />
   </p>
 </div>
 
 Created by: **Aritra Mitra (20CS30006)** and **Shiladitya De (20CS30061)**
+
 
 <div align="center"> About the Project </div>
 
