@@ -20,7 +20,7 @@
 Created by: **Aritra Mitra (20CS30006)** and **Shiladitya De (20CS30061)**
 
 
-<div align="center"> <h1> <b>About the Project</b> </h1></div>
+<h1 align="center"> <b>About the Project</b> </h1>
 
 ## Instruction Format:
 
