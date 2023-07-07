@@ -1,10 +1,25 @@
-﻿# Kgp-miniRISC: A miniature RISC Processor
 
-**Group: 58**
+# <div align="center"> Kgp-miniRISC: A miniature RISC Processor </div>
 
-**Aritra Mitra - 20CS30006**
 
-**Shiladitya De - 20CS30061**
+> Repository for Kgp-miniRISC: A miniature RISC Processor
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <p align="center">
+    <b>Kgp-miniRISC</b>
+    <br />
+    <br />
+    <img src="https://img.shields.io/badge/Verilog-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <br />
+  </p>
+</div>
+
+Created by: **Aritra Mitra (20CS30006)** and **Shiladitya De (20CS30061)**
+
+<div align="center"> About the Project </div>
 
 ## Instruction Format:
 
