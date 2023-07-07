@@ -1,4 +1,4 @@
-﻿# CS39001: Computer Organization Laboratory KGP-RISC
+﻿# Kgp-miniRISC: A miniature RISC Processor
 
 **Group: 58**
 
